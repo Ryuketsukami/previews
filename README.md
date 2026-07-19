@@ -12,9 +12,10 @@ Visual previews and screenshots from active projects.
 
 ![Starfall Delinquents mission map](starfall-delinquents/mission-map.png)
 
-### Piece deck concept — Orbit Breakers
+### Story-linked piece decks
 
-A focused object-based deck concept: five pieces shown in default, cracked,
-and special form. No character or mascot pieces.
+Six mission-specific decks plus Error Protocol, Void Foundry, and Science
+Afterhours. Each deck contains five object pieces in default, cracked, and
+special form, with no character or mascot pieces.
 
 ![Starfall Delinquents piece decks](starfall-delinquents/piece-decks.png)
