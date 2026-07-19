@@ -14,8 +14,8 @@ Visual previews and screenshots from active projects.
 
 ### Story-linked piece decks
 
-Six mission-specific decks plus Error Protocol, Void Foundry, and Science
-Afterhours. Each deck contains five object pieces in default, cracked, and
-special form, with no character or mascot pieces.
+Ten decks total: six mission-specific decks plus Error Protocol, Void Foundry,
+Science Afterhours, and Midnight Munchies. Each contains five pieces in three
+states; the food deck progresses from normal to one bite to almost eaten.
 
 ![Starfall Delinquents piece decks](starfall-delinquents/piece-decks.png)
